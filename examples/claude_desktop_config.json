@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "ai-effect-video": {
+      "command": "C:\\Tools\\EffectVideo-1.0.0\\effectvideo-mcp.exe"
+    }
+  }
+}
